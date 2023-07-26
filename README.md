@@ -8,4 +8,5 @@
 [currency quoting](https://www.investopedia.com/ask/answers/06/forexpercentagespread.asp) \
 
 
-
+#### Papers
+[Lines in Tropical Quadrics](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1053&context=hmc_theses) \
