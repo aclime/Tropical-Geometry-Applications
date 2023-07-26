@@ -10,3 +10,4 @@
 
 #### Papers
 [Lines in Tropical Quadrics](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1053&context=hmc_theses) \
+[Topics in elementary tropical geometry](https://www.mn.uio.no/math/personer/vit/ranestad/papers-preprints-scripts-students%20thesis/mdvavhandling.pdf) \
